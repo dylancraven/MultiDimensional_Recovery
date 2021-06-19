@@ -2,6 +2,7 @@
 
 ## Authors
 *Dylan Craven, Bruno Herault, Cata Jakovac, Masha T. van der Sande, and Lourens Poorter*    
+_Authors listed here planned and implemented data analyses associated with this project. The full author list of the manuscript, including those who contributed data or participated in writing the manuscript, is provided in the manuscript._
 
 ## Description  
 
