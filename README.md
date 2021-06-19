@@ -16,4 +16,4 @@ For questions regarding the network analyses, please contact [Dylan Craven](mail
  
 This work is licensed under a [Creative Commons Attribution 2.0 Generic License](https://creativecommons.org/licenses/by/2.0/).
 
-[Zenodo DOI](https://doi.org/10.5281/zenodo.4992979)
+[Zenodo DOI](https://doi.org/10.5281/zenodo.4992979):https://doi.org/10.5281/zenodo.4992979 (current release)
