@@ -6,7 +6,7 @@ Authors listed here planned and implemented data analyses associated with this p
 
 ## Description  
 
-This repository contains code and data used to assess multi-dimensional recovery of tropical secondary forests (currently under review). This project is part of the [sUCCESS](https://www.idiv.de/de/sdiv/arbeitsgruppen/pool-of-working-groups/success.html) working group and the [2NDFOR](https://sites.google.com/view/2ndfor/home) initiative. 
+This repository contains code and data used to assess multi-dimensional recovery of tropical secondary forests (currently under review). This project is part of the [sUCCESS](https://www.idiv.de/de/sdiv/arbeitsgruppen/pool-of-working-groups/success.html) working group and the [2NDFOR](https://sites.google.com/view/2ndfor/home) initiative that unites ecologists interested in secondary succession of tropical secondary forests.   
 
 Please note that the code is divided into three parts: i) Bayesian modeling of recovery of forest attributes, ii) correlation and partial correlation network analyses of recovery of forest attributes and iii) figures.  
 
